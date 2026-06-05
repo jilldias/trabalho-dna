@@ -8,7 +8,7 @@
 
 /* ---- Limites do sistema ---- */
 #define MAX_SEQ   10    /* Numero maximo de sequencias cadastradas    */
-#define TAM_DNA  201    /* Tamanho maximo da sequencia + '\0'         */
+#define TAM_DNA  202    /* Tamanho maximo da sequencia + '\0'         */
 #define TAM_NOME  31    /* Tamanho maximo do nome + '\0'              */
 
 /* ---- Estrutura principal ---- */

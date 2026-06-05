@@ -57,7 +57,7 @@ O esqueleto vem com a estrutura pronta. Os locais que devem ser implementados pe
 | `cadastro.c` | `listarSequencias()` | ✅ Pronta |
 | `cadastro.c` | `buscarPorNome()` | ✅ Pronta |
 | `analise.c` | `calcularGC()` | ✅ Pronta (serve de exemplo) |
-| `analise.c` | **`contarBa|
+| `analise.c` | **`contarBases()`** | ⚠️ **TODO** |
 
 ### Parte II — Intermediário (2,0 pts)
 
@@ -66,7 +66,7 @@ O esqueleto vem com a estrutura pronta. Os locais que devem ser implementados pe
 | `analise.c` | **`buscarMotif()`** | ⚠️ **TODO** |
 | `ordenacao.c` | **`ordenarPorTamanho()`** | ⚠️ **TODO** |
 
-### Parte IIIses()`** | ⚠️ **TODO**  — Avançado (2,0 pts)
+### Parte III — Avançado (2,0 pts)
 
 | Arquivo | Função | Status |
 |---|---|---|
@@ -145,4 +145,3 @@ Seq_E   ATGCCGTAACGGATTAGCT     (19 bases, 1 diferença de Seq_A)
 Procurem o Auxiliar Docente André Mendes.
 
 **Bom trabalho!** 🧬
-# TRABALHO-DNA

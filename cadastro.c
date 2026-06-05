@@ -54,8 +54,7 @@ void cadastrarSequencia(Sequencia *banco, int *total) {
     }
 
     /* Le o DNA */
-    printf("Sequencia de DNA (apenas A, T, C, G - max %d bases): ",
-           TAM_DNA - 1);
+    printf("Sequencia de DNA (apenas A, T, C, G - max 200 bases): ");
     scanf(" %200s", dnaTmp);
 
     /* Valida o DNA */
